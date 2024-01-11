@@ -1,4 +1,13 @@
 ﻿  main.cpp
-  Pong.vcxproj -> C:\Users\anuku\source\repos\Pong\x64\Debug\Pong.exe
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(20,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(20,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(20,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(46,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(47,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(74,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(144,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(147,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\main.cpp(152,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\x64\Debug\Pong.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

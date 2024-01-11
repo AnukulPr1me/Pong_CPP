@@ -1,1 +1,2 @@
 C:\Users\anuku\source\repos\Pong\Pong\x64\Debug\Pong.vcxproj.CopyComplete
+C:\Users\anuku\OneDrive\Documents\gamedev\Pong_CPP\Pong\Pong\x64\Debug\Pong.vcxproj.CopyComplete
