@@ -17,8 +17,7 @@ This Pong game is a simple yet engaging project built using C++ and the Raylib l
 ## How to Play
 
 1. **Player Controls:**
-   - Player 1: Use the `W` and `S` keys to move the paddle up and down, respectively.
-   - Player 2: Control the second paddle with the arrow keys (`Up` and `Down`).
+   - Player: Control the second paddle with the arrow keys (`Up` and `Down`).
 
 2. **Game Objective:**
    - The goal is to score points by hitting the ball past the opponent's paddle.
